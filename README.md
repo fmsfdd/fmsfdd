@@ -85,28 +85,7 @@ Some of the areas I work with include:
 - ⚡ Real-time systems
 - 🧩 Custom tools & automation
 
----
 
-## 📚 Currently Learning
-
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-00bfbf?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-00bfbf?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-00bfbf?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-00bfbf?style=for-the-badge&logo=javascript&logoColor=white)
-
-</div>
-
----
-
-## 📈 GitHub
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fmsfdd&theme=github_dark"/>
-
-</div>
 
 ---
 
